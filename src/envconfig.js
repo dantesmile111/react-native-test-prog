@@ -1,0 +1,1 @@
+export const apiEdpoint = 'https://testprog-d0e15.firebaseio.com/';
